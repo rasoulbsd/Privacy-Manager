@@ -1,24 +1,26 @@
 {
-  "name": "Privacy-Concerned",
+  "name": "electron-quick-start",
   "version": "1.0.0",
-  "description": "a simple application to manage privacy permissions",
-  "author": "rasoulbousaidi@gmail.com",
+  "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "dist": "build"
+    "env": "source ./env/bin/activate"
   },
-  "build": {
-    "appId": "com.jamzi.privacymanager",
-    "win": {
-      "target": "squirrel",
-      "icon": "build/icon.ico"
-    }
-  },
-  "dependencies": {},
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "latest",
-    "electron-builder": "^22.8.0",
-    "electron-packager": "^15.1.0"
+    "electron": "^10.1.0"
+  },
+  "dependencies": {
+    "node-cmd": "^3.0.0"
   }
 }
