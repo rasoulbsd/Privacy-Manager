@@ -1,4 +1,4 @@
-### Note: I am still working on it and it's the first release
+### Note: I am still working on it and it's the first release!
 
 
 
@@ -15,7 +15,7 @@ Privacy Manager can help users with managing:
 - Bluetooth Permission
 - Location Permission 
 
-## Installation
+## Installing Packages
 
 ```bash
 npm install
