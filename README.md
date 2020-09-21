@@ -1,7 +1,9 @@
+### Note: I am still working on it and it's the first release
+
+
+
 # Privacy Manager
 
-
-Note: I am still working on it and it's the first release
 
 ## About
 
